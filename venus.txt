@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Venes is beautiful and full of love
+=======
+Venus is beautiful and full of love
+>>>>>>> f442732a92910ab0c6802b8019814c12fea81a8b
